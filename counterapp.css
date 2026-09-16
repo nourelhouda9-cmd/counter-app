@@ -1,0 +1,22 @@
+body{
+    background-image: url("backapp.png");
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-size: 50px;
+}
+.first{
+    display: flexbox;
+}
+button{margin:45px 1450px;font-size: 50px;width: 400px;height: 140px;border-radius: 25px;
+box-shadow: 10px 10px 2px black;transition opacity 1s;cursor: pointer;}
+.affi{margin: 45px 1300px;}
+.zero{margin-top: 400px;margin-left:1630px;}
+.inc{background-color: red;}
+.sv{background-color: green;}
+.cl{background-color: yellow;}
+button:hover{opacity: 0.7;}
+button:active{opacity: 0.2;}
+
