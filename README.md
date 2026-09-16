@@ -4,3 +4,7 @@ a simple counter web application built with HTML,CSS and JavaScript.
 -increment the counter
 -clear the counter
 -save count
+## Technologies
+-HTML
+-CSS
+-JavaScript
